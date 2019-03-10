@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-fitness
+
+about:
+  title: Learning fitness
+  description: Tips and tools for a healthier body and nutrition
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
